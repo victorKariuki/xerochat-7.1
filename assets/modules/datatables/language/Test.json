@@ -1,0 +1,21 @@
+{
+    "sEmptyTable" : "",
+    "sInfoFiltered" : "",
+    "sInfoPostFix" : "",
+    "sInfoThousands" : "",
+    "sLoadingRecords" : "",
+    "sProcessing" : "",
+    "sZeroRecords" : "",
+    "oPaginate" : {
+    	"sFirst" : "",
+    	"sLast" : "",
+    	"sNext" : "",
+    	"sPrevious" : ""
+    },
+    "pSearch" : "",
+    "oAria" : {
+    	"sSortAscending" : "",
+    	"sSortDescending" : ""
+    },
+    "sSearchPlaceholder" : ""
+}
